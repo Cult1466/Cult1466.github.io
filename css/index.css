@@ -20,3 +20,10 @@
 .btn-group button:hover {
     background-color: #3e8e41;
 }
+
+.btn-urls button {
+    background-color: limegreen;
+    border: 1px solid lime;
+    color: white;
+    padding: 10px 24px;
+}
